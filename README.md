@@ -8,9 +8,15 @@ ollama pull mistral
 ollama pull nomic-embed-text
 ```
 
+Create virtual env
+```bash
+python -m venv venv
+```
+
 Clone the repo
 ```bash
 git clone https://github.com/g-hano/LLMBattle.git
+venv\scripts\activate
 cd LLMBattle
 pip install -r requirements.txt
 ```
