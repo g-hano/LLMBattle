@@ -17,5 +17,5 @@ pip install -r requirements.txt
 
 Run the Gradio app
 ```bash
-jupyter notebook app.ipynb
+python app.py
 ```
