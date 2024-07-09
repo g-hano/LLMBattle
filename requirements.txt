@@ -1,0 +1,8 @@
+llama-index
+llama-index-llms-ollama
+llama-index-embeddings-ollama
+gradio
+PyMuPDF
+python-docx
+llama-index-retrievers-bm25
+langdetect
